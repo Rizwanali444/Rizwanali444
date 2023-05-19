@@ -1,3 +1,4 @@
+![Uploading Fast Typing System Coding.gif…]()
 ![1683990440884](https://github.com/Rizwanali444/Rizwanali444/assets/120648247/9dc4167c-bb4c-4300-9bca-f4dc2653f39a)
 - 👋 Hi, I’m @Rizwanali444
 - 👀 I’m interested in ...
