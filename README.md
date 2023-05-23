@@ -1,5 +1,75 @@
 
-![Fast Typing System Coding](https://github.com/Rizwanali444/Rizwanali444/assets/120648247/809f5a85-cb03-4b24-aca4-35c17ae0d0be)
+Coded  by Rizwan Ali digital clock⏰ 🙂🙂 in simple html  and  css
+
+<html>
+
+<head>
+
+<title>
+
+Digital Clock
+
+</title>
+
+<style>
+
+body {
+
+background:black;
+
+}
+
+div {
+
+width:40%;
+
+text-align:center;
+
+font-size:500%;
+
+padding:50px;
+
+border-radius:20px;
+
+background:black;
+
+color:lime;
+
+margin-top:20%;
+
+box-shadow:10px 10px 15px lime, -10px -10px 15px lime, -10px 10px 15px lime, 10px -10px 15px lime;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<center>
+
+<div id="clock">00 : 00 : 00</div>
+
+</center>
+
+<script>
+
+setInterval(function() {
+
+var time = new Date();
+
+var clock = document.getElementById("clock");
+
+clock.innerHTML = time.getHours() + " : " + time.getMinutes() + " : " + time.getSeconds();
+
+}, 100)
+
+</script>
+
+</body>
+
+</html>
 - 👋 Hi, I’m @Rizwanali444
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
