@@ -1,22 +1,10 @@
-
-
-- 👋 Hi, I’m @Rizwanali444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rizwanali444/Rizwanali444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
 <!-- Welcome to my Profile GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM2ZDMzYjJlYjU5N2E0NDFkMDQyMTA0ZmM1ZWMzN2YzZThmYzA5MCZjdD1n/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Welcome to my Profile" width="60%" />
 </p>
 
-<h1 align="center">ðŸ‘‹ðŸ˜„ Welcome to my profile! ðŸ˜„ðŸ‘‹</h1>
-<p align="center"><b>Thanks for visit! ðŸš€âœ¨</b></p>
+<h1 align="center">👋😀 Welcome to my profile! 😀👋</h1>
+<p align="center"><b>Thanks for visit! 🚀✨</b></p>
 
 <!-- Fun Loading Animation GIF -->
 <p align="center">
@@ -26,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## 👨‍💻 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" alt="Waving Hand Animated" />
@@ -35,21 +23,21 @@ You can click the Preview link to take a look at your changes.
 **Name:** Rizwan Ali  
 **Role:** Student  
 
-Hey there! ðŸ‘‹  
-Iâ€™m Rizwan Ali, a passionate and dynamic student on a mission to explore the world of technology. ðŸš€
+Hey there! 👋  
+I’m Rizwan Ali, a passionate and dynamic student on a mission to explore the world of technology. 🚀
 
-ðŸŒŸ I love all things tech and am especially fascinated by ethical hacking, cybersecurity, and software development. Coding is my superpower and curiosity is my guideâ€”Iâ€™m always eager to learn new programming languages, frameworks, and tools.  
-ðŸ’¡ My journey started with small coding projects and now Iâ€™m constantly experimenting, breaking (and fixing!) things, and trying to make the digital world a bit more interesting and secure.
+🌟 I love all things tech and am especially fascinated by ethical hacking, cybersecurity, and software development. Coding is my superpower and curiosity is my guide—I’m always eager to learn new programming languages, frameworks, and tools.  
+💡 My journey started with small coding projects and now I’m constantly experimenting, breaking (and fixing!) things, and trying to make the digital world a bit more interesting and secure.
 
-ðŸ›¡ï¸ I enjoy participating in CTFs (Capture The Flag), reading about the latest cyber threats, and sharing knowledge with fellow learners.  
-ðŸ”— When Iâ€™m not coding, youâ€™ll find me watching tech tutorials on YouTube, chatting with friends on WhatsApp, or scrolling through new ideas on Facebook.
+🛡️ I enjoy participating in CTFs (Capture The Flag), reading about the latest cyber threats, and sharing knowledge with fellow learners.  
+📞 When I’m not coding, you’ll find me watching tech tutorials on YouTube, chatting with friends on WhatsApp, or scrolling through new ideas on Facebook.
 
 I believe that every bug is just a puzzle waiting to be solved, and every day is a chance to level up my skills.  
-Letâ€™s connect, collaborate, and create something awesome together! ðŸ˜Žâœ¨
+Let’s connect, collaborate, and create something awesome together! 😎✨
 
 ---
 
-## ðŸŒ Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://youtube.com/@rizwanali46718?si=Tys7-0d2sJaQQzL3" target="_blank">
@@ -86,7 +74,7 @@ Letâ€™s connect, collaborate, and create something awesome together! ðŸ˜
 
 ---
 
-## ðŸ’» Languages I Know
+## 💻 Languages I Know
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -99,12 +87,12 @@ Letâ€™s connect, collaborate, and create something awesome together! ðŸ˜
 </p>
 
 <p align="center">
-  âš¡ðŸ‘¾ðŸ’¡ðŸš¦ðŸ¦¾ðŸ–¥ï¸ðŸŽ‰ðŸ¤–
+  ⚡🧾💡🚦🦾🗡️🎉🤖
 </p>
 
 ---
 
-## ðŸ Most Used Language
+## 🐍 Most Used Language
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -118,6 +106,6 @@ Letâ€™s connect, collaborate, and create something awesome together! ðŸ˜
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacker Animation" width="60%" />
   <br>
-  ðŸ¥³ Thanks again for visiting! Have an epic, bug-free day! ðŸš€ðŸŽˆ<br>
+  🥳 Thanks again for visiting! Have an epic, bug-free day! 🚀🎈<br>
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="75px" alt="Party Blob" />
 </p>
